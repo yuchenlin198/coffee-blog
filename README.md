@@ -1,4 +1,4 @@
-# coffee-blog
+# coffee-blog-1332
 A blog site for coffee lovers to find, share and write anything about coffee.
 
 This website is designed to be a blog site for people who care about coffee. It incorporates many ensential functionality of a blog system including but not limited to: creating, editing and deleting posts and comments, like buttons, social sharing buttons, gravatars, secured login/signup system, sorting and categorizing blog posts, fully responsive design etc.
